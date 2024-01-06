@@ -1,4 +1,4 @@
-## Hi there 👋
+# Hi there 👋
 
 I'm Ebube Joshua, a passionate software engineering intern with ALXAfrica from Nigeria.
 
