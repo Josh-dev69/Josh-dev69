@@ -1,6 +1,6 @@
 # Hi there 👋
 
-I'm Ebube Joshua, a passionate software engineering intern with ALXAfrica from Nigeria.
+I'm Ebube Joshua, a passionate software engineering student with ALXAfrica from Nigeria.
 
 ####   👯 I’m looking to collaborate with people of like minds.
 ####   🤔 I’m looking for help with improving my career as a software engineer
