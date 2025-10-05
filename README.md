@@ -7,7 +7,7 @@ I'm Ebube Joshua, a passionate software engineering student with ALXAfrica from 
 ####   🌱 I'm currently learning
         - Java Programming
 ####   🤝 Connect with me
-        - Twitter - https://twitter.com/EbubeAloh
+        - Twitter - https://twitter.com/jebubechinonso
         - LinkedIn - https://www.linkedin.com/in/ebube-aloh-1627b1185
 ####   ⚡ Fun fact: 
         - Did you know? The term 'bug' in computer science originated in 1947 when Grace Hopper found an actual moth causing a glitch in the Mark II computer. She removed it and taped it            to the logbook, coining the term 'debugging' for fixing code issues. So, the next time you encounter a bug, just remember, you're following in the footsteps of computer science            history!
